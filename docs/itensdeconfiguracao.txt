@@ -1,0 +1,30 @@
+Itens de configuração:
+
+-Escopo;
+-Código fonte do projeto;
+-Questionário de entrevista do cliente;
+-Estrutura de especificação do sistema;
+-Análise detalhada do sistema;
+-Análise de requisitos;
+-Análise do problema;
+-Projeto do sistema;
+-Análise do Software;
+-Processo de desenvolvimento do software;
+-Ata de reunião;
+-Ferramentas Case;
+-Regras de negócio;
+-Planejamento do Sprint;
+-Planejamento;
+-Análise de riscos;
+-Estórias;
+-Estórias técnicas;
+-Registros dos testes feito;
+-Prototipagem;
+-Diagrama de Classe;
+-Diagrama de caso de uso;
+-Modelagem do banco de dados(lógico);
+-Modelagem do banco de dados(físico);
+-Modelagem do banco de dados(conceitual);
+-Diário dos envolvidos no projeto;
+-Refinamento;
+-Manual do software.
